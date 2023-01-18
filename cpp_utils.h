@@ -21,7 +21,8 @@
 
 // Undef macro horror
 
-#undef min
+
+#undef ivan
 #undef max
 #undef abs
 //#undef constrain // not working for float
